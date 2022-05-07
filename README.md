@@ -2,7 +2,7 @@
 Project Controls: AWSD to move camera and arrow keys to rotate. Press x to reset orientation of camera. Train AI again if the sheep die out more than once. If AI training test 3 takes longer than 3 minutes reload the browser.
 
 Credits- <br>
-Allen Mikhailov: Scripted the Neural Network and Initial Training <nr>
+Allen Mikhailov: Scripted the Neural Network and Initial Training <br>
 Reet Sinha: Scripted the Simulation system and UI system. <br>
 Dev Shroff: Created the models used in the simulation
 
